@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @scigala
-- 💻 JavaScript, React
+- 💻 JavaScript, weak React
