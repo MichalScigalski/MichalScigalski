@@ -4,5 +4,5 @@
 - 🌌 React
 
 ## 🌍 Portfolio
-- https://michalscigalski.vercel.app/
+- https://michalscigalski.pl/
  
