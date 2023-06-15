@@ -4,5 +4,4 @@
 - 🌌 React
 
 ## 🌍 Portfolio
-- https://michalscigalski.pl/
- 
+- https://www.scigalski.tech/
