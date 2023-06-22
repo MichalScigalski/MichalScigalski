@@ -3,5 +3,9 @@
 - 💻 WEB Development
 - 🌌 React
 
-## 🌍 Portfolio
-- https://www.scigalski.tech/
+<br/>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=MichalScigalski&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
